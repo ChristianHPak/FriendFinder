@@ -11,6 +11,13 @@ https://find-a-friend-christianpak.herokuapp.com/
 ### Installation
 To install the application follow the instructions below:
 
-`git clone git@github.com:angrbrd/friend-finder.git
-cd friend-finder
-npm install`
+`git clone git@github.com:angrbrd/friend-finder.git`
+`cd friend-finder`
+`npm install`
+
+### Technologies Used
+* Javascript
+* JQuery
+* Node
+* Express
+* Bootstrap
